@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators.",
+        "title": "Elevate Your Workspace with Roket"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators.",
+        "title": "Elevate Your Workspace with Roket"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators.",
+        "title": "Elevate Your Workspace with Roket"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators.",
+        "title": "Elevate Your Workspace with Roket"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators.",
+        "title": "Elevate Your Workspace with Roket"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators.",
+        "title": "Elevate Your Workspace with Roket"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators.",
+        "title": "Elevate Your Workspace with Roket"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators.",
+        "title": "Elevate Your Workspace with Roket"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators.",
+        "title": "Elevate Your Workspace with Roket"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Workspace with Roket",
+  "subtitle": "Discover a seamless blend of creativity and productivity in a dynamic environment crafted for innovators."
+}
